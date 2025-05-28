@@ -1,0 +1,54 @@
+{
+  "summaries": [
+    {
+      "title": "An overview of the supervised machine learning methods",
+      "url": "https://www.researchgate.net/profile/Vladimir-Nasteski/publication/328146111_An_overview_of_the_supervised_machine_learning_methods/links/5c1025194585157ac1bba147/An-overview-of-the-supervised-machine-learning-methods.pdf",
+      "summary": "This paper provides a brief overview of supervised machine learning methods, including explanations of the machine learning process and several supervised learning algorithms."
+    },
+    {
+      "title": "SUPERVISED MACHINE LEARNING APPROACHES: A SURVEY.",
+      "url": "https://www.academia.edu/download/97762947/IJSC_Paper_4_946-952.pdf",
+      "summary": "This survey focuses on supervised learning classification algorithms, aiming to guide new researchers in the field.  It provides an overview of various supervised learning approaches."
+    },
+    {
+      "title": "Supervised machine learning algorithms: classification and comparison",
+      "url": "https://www.researchgate.net/profile/J-E-T-Akinsola/publication/318338750_Supervised_Machine_Learning_Algorithms_Classification_and_Comparison/links/596481dd0f7e9b819497e265/Supervised-Machine-Learning-Algorithms-Classification-and-Comparison.pdf",
+      "summary": "This research classifies and compares different supervised learning algorithms.  Specific algorithms used in the study are mentioned, and the paper analyzes the precision of these algorithms."
+    },
+    {
+      "title": "An empirical comparison of supervised learning algorithms",
+      "url": "https://dl.acm.org/doi/abs/10.1145/1143844.1143865",
+      "summary": "This paper presents a large-scale empirical comparison of ten supervised learning algorithms using eight performance metrics.  It addresses the lack of comprehensive empirical studies comparing these algorithms."
+    },
+    {
+      "title": "A comparative study of training algorithms for supervised machine learning",
+      "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=18ca69ec35a0ab52922cb8a81d5041ac99005f3a",
+      "summary": "This research studies existing classification algorithms and their training methods within the context of supervised learning.  It focuses on how these algorithms assign class labels to data objects."
+    },
+    {
+      "title": "Supervised classification algorithms in machine learning: A survey and review",
+      "url": "https://link.springer.com/chapter/10.1007/978-981-13-7403-6_11",
+      "summary": "This survey and review paper describes various supervised learning classification algorithms and their accuracy.  It discusses different schemes of supervised learning and their application to a specific dataset."
+    },
+    {
+      "title": "Supervised machine learning: algorithms and applications",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119821908.ch1",
+      "summary": "This chapter focuses on supervised machine learning (SML) algorithms and their applications. It discusses the ongoing development of supervised learning strategies by information researchers."
+    },
+    {
+      "title": "A review of supervised machine learning algorithms",
+      "url": "https://ieeexplore.ieee.org/abstract/document/7724478/",
+      "summary": "This review paper covers supervised machine learning algorithms, their applications in pattern recognition and machine learning, and their major drawbacks.  It aims to guide researchers towards interesting research directions."
+    },
+    {
+      "title": "Supervised machine learning: a brief primer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0005789420300678",
+      "summary": "This primer provides a brief overview of supervised machine learning, covering model building, validation, performance evaluation, and challenges in creating robust and generalizable algorithms."
+    },
+    {
+      "title": "Comparing different supervised machine learning algorithms for disease prediction",
+      "url": "https://link.springer.com/article/10.1186/s12911-019-1004-8?error=cookies_not_supporte",
+      "summary": "This research reviews published articles using different supervised learning algorithms for disease prediction. It aims to identify key trends, performance accuracies, and the types of diseases studied, highlighting the advantages and limitations of different algorithms."
+    }
+  ]
+}
