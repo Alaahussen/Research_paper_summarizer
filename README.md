@@ -45,3 +45,9 @@ cd ai-research-summarizer
 
 pip install -r requirements.txt
 
+## 📱 Streamlit Web App
+
+A user-friendly Streamlit interface is included to let users:
+- Input a research topic or keyword
+- Launch the pipeline with a click
+- View summaries of papers directly in the browser
