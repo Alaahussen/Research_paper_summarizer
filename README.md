@@ -40,6 +40,8 @@ The pipeline uses **four AI agents** to handle the research process from keyword
 ## 📦 Installation
 
 git clone https://github.com/Alaahussen/Research_paper_summarizer.git
+
 cd ai-research-summarizer
+
 pip install -r requirements.txt
 
