@@ -4,4 +4,4 @@ serpapi
 python-dotenv
 beautifulsoup4
 requests
-pysqlite3-binary
+pysqlite3-binary>= 3.35.0
