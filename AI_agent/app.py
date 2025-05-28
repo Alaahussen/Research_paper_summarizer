@@ -1,3 +1,6 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from crewai import Agent, Task, Crew, Process, LLM
 from crewai.tools import tool
 from crewai.knowledge.source.string_knowledge_source import StringKnowledgeSource
@@ -17,13 +20,6 @@ from Agents import AgentB
 from Agents import AgentC
 from Agents import AgentD
 import streamlit as st
-
-
-
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-
 no_keywords = 1
 
 about_company = "Rankyx is a company that provides AI solutions to help websites refine their search and recommendation systems."
