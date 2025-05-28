@@ -6,7 +6,6 @@ from crewai.tools import tool
 from crewai.knowledge.source.string_knowledge_source import StringKnowledgeSource
 from pydantic import BaseModel, Field
 from typing import List
-from tavily import TavilyClient
 from scrapegraph_py import Client
 from serpapi import GoogleSearch
 import os
