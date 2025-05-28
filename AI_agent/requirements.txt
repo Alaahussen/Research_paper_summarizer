@@ -4,3 +4,4 @@ serpapi
 python-dotenv
 beautifulsoup4
 requests
+pysqlite3-binary
