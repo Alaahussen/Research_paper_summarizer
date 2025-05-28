@@ -26,7 +26,20 @@ The pipeline uses **four AI agents** to handle the research process from keyword
    - Reads the structured data from each paper.
    - Produces a concise and well-organized summary combining key insights from all sections.
 
+
+## 🧠 Technologies Used
+
+- `CrewAI` – Multi-agent orchestration
+- `SerpAPI` – Academic paper search via Google Scholar
+- `BeautifulSoup` – HTML content scraping
+- `pdfplumber` – PDF section extraction
+- `OpenAI GPT / LLM` – Language model for summarization
+
 ---
 
-## 🧱 Repository Structure
+## 📦 Installation
+
+git clone https://github.com/your-username/ai-research-summarizer.git
+cd ai-research-summarizer
+pip install -r requirements.txt
 
