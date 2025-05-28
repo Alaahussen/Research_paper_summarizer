@@ -9,7 +9,7 @@ This project leverages AI agents to **automatically discover, extract, and summa
 The pipeline uses **four AI agents** to handle the research process from keyword entry to summarization:
 
 1. **Keyword Agent**  
-   - Accepts user-defined research topics or keywords (e.g., "Graph Neural Networks in drug discovery").
+   - Accepts user-defined research topics or keywords (e.g., "self supervised learning ").
    - Generates meaningful and contextual search queries.
 
 2. **Search Agent (SerpAPI)**  
@@ -51,3 +51,5 @@ A user-friendly Streamlit interface is included to let users:
 - Input a research topic or keyword
 - Launch the pipeline with a click
 - View summaries of papers directly in the browser
+
+  ![Streamlit app](app.png)
