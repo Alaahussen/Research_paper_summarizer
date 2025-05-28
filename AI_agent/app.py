@@ -18,6 +18,8 @@ from Agents import AgentB
 from Agents import AgentC
 from Agents import AgentD
 import streamlit as st
+
+load_dotenv()
 no_keywords = 1
 
 about_company = "Rankyx is a company that provides AI solutions to help websites refine their search and recommendation systems."
