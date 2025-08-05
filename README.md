@@ -53,4 +53,3 @@ A user-friendly Streamlit interface is included to let users:
 - View summaries of papers directly in the browser
 
   ![Streamlit app](app.png)
-  https://github.com/user-attachments/assets/4309b4fe-5bbd-4b23-983a-ff0efdaf02a4
